@@ -1,30 +1,32 @@
-# Example GitHub Pages Site
-
-  - [2025.06.02.GitHub.Pages.And.Resources.md](./2025.06.02.GitHub.Pages.And.Resources)
-  - [phase3_alternate.md](./phase3_alternate)
-
-
 # Quick Links
 
   - [GitHub Repository](https://github.com/cstkennedy/CS410-2025-Summer-Website-Demo)
   - [GitHub Pages Site](https://cstkennedy.github.io/CS410-2025-Summer-Website-Demo/)
 
 
+# Separate Pages
+
+  - [2025.06.02.GitHub.Pages.And.Resources.md](./2025.06.02.GitHub.Pages.And.Resources)
+  - [phase3_alternate.md](./phase3_alternate)
+
+
+# References
+
 ## GitHub Pages
 
   - [GitHub Flavor Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-## HTML & CSS Reference
+## HTML & CSS
 
   - [HTML](https://www.w3schools.com/html/default.asp)
   - [CSS](https://www.w3schools.com/css/default.asp)
   - [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
 
 
-## JavaScript Reference
+## JavaScript
 
-T.B.W.
+  - [JavaScript](https://www.w3schools.com/js/default.asp)
 
 
 # Notes
@@ -76,4 +78,17 @@ Markdown supports tables.
 | Allow read-and-write access to entries in a collection                    | `iter_mut()`                 |
 
 
+# General Resources
 
+  3. [CS 410 & 411W resources](https://github.com/cstkennedy/cs410-411w-examples)
+
+  4. [Python resources](https://www.cs.odu.edu/~tkennedy/cs263/latest/Directory/outline/)
+
+  4. [Rust resources](https://www.cs.odu.edu/~tkennedy/cs395/latest/Directory/outline/)
+
+
+# Discussion Todo List
+
+  1. ~~Development expectations for this semester~~
+
+  2. Development expectations for next semester (i.e., CS 411W)
