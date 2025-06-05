@@ -6,8 +6,8 @@
 
 # Quick Links
 
-  - [GitHub Pages Site](https://cstkennedy.github.io/cs410-2025-Spring-Pages-Example/)
-  - [GitHub Repository](https://github.com/cstkennedy/cs410-2025-Spring-Pages-Example)
+  - [GitHub Repository](https://github.com/cstkennedy/CS410-2025-Summer-Website-Demo)
+  - [GitHub Pages Site](https://cstkennedy.github.io/CS410-2025-Summer-Website-Demo/)
 
 
 ## GitHub Pages
