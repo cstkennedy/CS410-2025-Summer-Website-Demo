@@ -1,5 +1,9 @@
 # Example GitHub Pages Site
 
+  - [2025.06.02.GitHub.Pages.And.Resources.md](./2025.06.02.GitHub.Pages.And.Resources)
+  - [phase3_alternate.md](./phase3_alternate)
+
+
 # Quick Links
 
   - [GitHub Pages Site](https://cstkennedy.github.io/cs410-2025-Spring-Pages-Example/)
